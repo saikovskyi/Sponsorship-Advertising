@@ -1,0 +1,47 @@
+C:/Users/Dell/source/repos/Sponsorship_advertising/Sponsorship_advertising/bin/Debug/netcoreapp3.1/Sponsorship_advertising.exe
+C:/Users/Dell/source/repos/Sponsorship_advertising/Sponsorship_advertising/bin/Debug/netcoreapp3.1/Sponsorship_advertising.deps.json
+C:/Users/Dell/source/repos/Sponsorship_advertising/Sponsorship_advertising/bin/Debug/netcoreapp3.1/Sponsorship_advertising.runtimeconfig.json
+C:/Users/Dell/source/repos/Sponsorship_advertising/Sponsorship_advertising/bin/Debug/netcoreapp3.1/Sponsorship_advertising.runtimeconfig.dev.json
+C:/Users/Dell/source/repos/Sponsorship_advertising/Sponsorship_advertising/bin/Debug/netcoreapp3.1/Sponsorship_advertising.dll
+C:/Users/Dell/source/repos/Sponsorship_advertising/Sponsorship_advertising/bin/Debug/netcoreapp3.1/Sponsorship_advertising.pdb
+C:/Users/Dell/source/repos/Sponsorship_advertising/Sponsorship_advertising/bin/Debug/netcoreapp3.1/CsvHelper.dll
+C:/Users/Dell/source/repos/Sponsorship_advertising/Sponsorship_advertising/obj/Debug/netcoreapp3.1/Sponsorship_advertising.csprojAssemblyReference.cache
+C:/Users/Dell/source/repos/Sponsorship_advertising/Sponsorship_advertising/obj/Debug/netcoreapp3.1/Sponsorship_advertising.AssemblyInfoInputs.cache
+C:/Users/Dell/source/repos/Sponsorship_advertising/Sponsorship_advertising/obj/Debug/netcoreapp3.1/Sponsorship_advertising.AssemblyInfo.cs
+C:/Users/Dell/source/repos/Sponsorship_advertising/Sponsorship_advertising/obj/Debug/netcoreapp3.1/Sponsorship_advertising.csproj.CoreCompileInputs.cache
+C:/Users/Dell/source/repos/Sponsorship_advertising/Sponsorship_advertising/obj/Debug/netcoreapp3.1/Sponsorship_advertising.csproj.CopyComplete
+C:/Users/Dell/source/repos/Sponsorship_advertising/Sponsorship_advertising/obj/Debug/netcoreapp3.1/Sponsorship_advertising.dll
+C:/Users/Dell/source/repos/Sponsorship_advertising/Sponsorship_advertising/obj/Debug/netcoreapp3.1/Sponsorship_advertising.pdb
+C:/Users/Dell/source/repos/Sponsorship_advertising/Sponsorship_advertising/obj/Debug/netcoreapp3.1/Sponsorship_advertising.genruntimeconfig.cache
+/Users/vladsaikovskyi/ЧНУ/Курсова №1/Sponsorship_advertising/Sponsorship_advertising/bin/Debug/netcoreapp3.1/Sponsorship_advertising
+/Users/vladsaikovskyi/ЧНУ/Курсова №1/Sponsorship_advertising/Sponsorship_advertising/bin/Debug/netcoreapp3.1/Sponsorship_advertising.deps.json
+/Users/vladsaikovskyi/ЧНУ/Курсова №1/Sponsorship_advertising/Sponsorship_advertising/bin/Debug/netcoreapp3.1/Sponsorship_advertising.runtimeconfig.json
+/Users/vladsaikovskyi/ЧНУ/Курсова №1/Sponsorship_advertising/Sponsorship_advertising/bin/Debug/netcoreapp3.1/Sponsorship_advertising.runtimeconfig.dev.json
+/Users/vladsaikovskyi/ЧНУ/Курсова №1/Sponsorship_advertising/Sponsorship_advertising/bin/Debug/netcoreapp3.1/Sponsorship_advertising.dll
+/Users/vladsaikovskyi/ЧНУ/Курсова №1/Sponsorship_advertising/Sponsorship_advertising/bin/Debug/netcoreapp3.1/Sponsorship_advertising.pdb
+/Users/vladsaikovskyi/ЧНУ/Курсова №1/Sponsorship_advertising/Sponsorship_advertising/bin/Debug/netcoreapp3.1/CsvHelper.dll
+/Users/vladsaikovskyi/ЧНУ/Курсова №1/Sponsorship_advertising/Sponsorship_advertising/obj/Debug/netcoreapp3.1/Sponsorship_advertising.csproj.AssemblyReference.cache
+/Users/vladsaikovskyi/ЧНУ/Курсова №1/Sponsorship_advertising/Sponsorship_advertising/obj/Debug/netcoreapp3.1/Sponsorship_advertising.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladsaikovskyi/ЧНУ/Курсова №1/Sponsorship_advertising/Sponsorship_advertising/obj/Debug/netcoreapp3.1/Sponsorship_advertising.AssemblyInfoInputs.cache
+/Users/vladsaikovskyi/ЧНУ/Курсова №1/Sponsorship_advertising/Sponsorship_advertising/obj/Debug/netcoreapp3.1/Sponsorship_advertising.AssemblyInfo.cs
+/Users/vladsaikovskyi/ЧНУ/Курсова №1/Sponsorship_advertising/Sponsorship_advertising/obj/Debug/netcoreapp3.1/Sponsorship_advertising.csproj.CoreCompileInputs.cache
+/Users/vladsaikovskyi/ЧНУ/Курсова №1/Sponsorship_advertising/Sponsorship_advertising/obj/Debug/netcoreapp3.1/Sponsorship_advertising.csproj.CopyComplete
+/Users/vladsaikovskyi/ЧНУ/Курсова №1/Sponsorship_advertising/Sponsorship_advertising/obj/Debug/netcoreapp3.1/Sponsorship_advertising.dll
+/Users/vladsaikovskyi/ЧНУ/Курсова №1/Sponsorship_advertising/Sponsorship_advertising/obj/Debug/netcoreapp3.1/Sponsorship_advertising.pdb
+/Users/vladsaikovskyi/ЧНУ/Курсова №1/Sponsorship_advertising/Sponsorship_advertising/obj/Debug/netcoreapp3.1/Sponsorship_advertising.genruntimeconfig.cache
+C:\Users\Админ\Desktop\К1\Sponsorship_advertising\Sponsorship_advertising\obj\Debug\netcoreapp3.1\Sponsorship_advertising.dll
+C:\Users\Админ\Desktop\К1\Sponsorship_advertising\Sponsorship_advertising\obj\Debug\netcoreapp3.1\Sponsorship_advertising.pdb
+C:\Users\Админ\Desktop\К1\Sponsorship_advertising\Sponsorship_advertising\bin\Debug\netcoreapp3.1\Sponsorship_advertising.exe
+C:\Users\Админ\Desktop\К1\Sponsorship_advertising\Sponsorship_advertising\bin\Debug\netcoreapp3.1\Sponsorship_advertising.deps.json
+C:\Users\Админ\Desktop\К1\Sponsorship_advertising\Sponsorship_advertising\bin\Debug\netcoreapp3.1\Sponsorship_advertising.runtimeconfig.json
+C:\Users\Админ\Desktop\К1\Sponsorship_advertising\Sponsorship_advertising\bin\Debug\netcoreapp3.1\Sponsorship_advertising.runtimeconfig.dev.json
+C:\Users\Админ\Desktop\К1\Sponsorship_advertising\Sponsorship_advertising\bin\Debug\netcoreapp3.1\Sponsorship_advertising.dll
+C:\Users\Админ\Desktop\К1\Sponsorship_advertising\Sponsorship_advertising\bin\Debug\netcoreapp3.1\Sponsorship_advertising.pdb
+C:\Users\Админ\Desktop\К1\Sponsorship_advertising\Sponsorship_advertising\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Админ\Desktop\К1\Sponsorship_advertising\Sponsorship_advertising\obj\Debug\netcoreapp3.1\Sponsorship_advertising.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\К1\Sponsorship_advertising\Sponsorship_advertising\obj\Debug\netcoreapp3.1\Sponsorship_advertising.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\К1\Sponsorship_advertising\Sponsorship_advertising\obj\Debug\netcoreapp3.1\Sponsorship_advertising.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\К1\Sponsorship_advertising\Sponsorship_advertising\obj\Debug\netcoreapp3.1\Sponsorship_advertising.AssemblyInfo.cs
+C:\Users\Админ\Desktop\К1\Sponsorship_advertising\Sponsorship_advertising\obj\Debug\netcoreapp3.1\Sponsorship_advertising.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\К1\Sponsorship_advertising\Sponsorship_advertising\obj\Debug\netcoreapp3.1\Sponsors.CAAF9DBF.Up2Date
+C:\Users\Админ\Desktop\К1\Sponsorship_advertising\Sponsorship_advertising\obj\Debug\netcoreapp3.1\Sponsorship_advertising.genruntimeconfig.cache
